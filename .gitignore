@@ -1,0 +1,8 @@
+.env
+testmail.csv
+.pytest_cache/
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
