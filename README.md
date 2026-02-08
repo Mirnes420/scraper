@@ -47,3 +47,5 @@ Secure API & SMTP Integration
 
 🔒 Access & Licensing
 This is a proprietary tool currently offered as a service. The source code provided here is for portfolio review and architectural demonstration only.
+
+Demo can be found on https://global-outreach.streamlit.app/
